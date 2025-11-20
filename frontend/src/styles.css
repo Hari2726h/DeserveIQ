@@ -1,0 +1,4 @@
+body { background: #f6f8fb; color: #1f2937; }
+.card { border: none; }
+.shadow-sm { box-shadow: 0 4px 14px rgba(20,20,40,0.06) !important; }
+.badge { font-weight:600; }
